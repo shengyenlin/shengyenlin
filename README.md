@@ -58,13 +58,16 @@
 
 <br/>  
 
+## Github Stats
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shengyenlin&show_icons=true&locale=en&layout=compact" alt="shengyenlin" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shengyenlin&show_icons=true&locale=en&layout=compact" alt="shengyenlin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shengyenlin&show_icons=true&locale=en" alt="shengyenlin" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=shengyenlin&show_icons=true&locale=en" alt="shengyenlin"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shengyenlin&" alt="shengyenlin" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shengyenlin&" alt="shengyenlin"/>
 
-### Blogs posts
+<br/>  
+
+## Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
