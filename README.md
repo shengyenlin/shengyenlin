@@ -1,30 +1,21 @@
-<h1 align="center">Coucou👋, I'm Sheng-Yen</h1>
-<h3 align="center">A passionate data scientist from Taiwan, specialized in computer vision, natural language processing and recommender system</h3>
+<h1 align="left">Coucou👋, I'm Sheng-Yen</h1>
+<h3 align="left">Data scientist, machine learning researcher / engineer interested in computer vision, natural language processing, recommander system, multimodal learning.</h3>
+<h3 align="left">Clarinetiest, Stoist, Language enthusiast</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shengyenlin&label=Profile%20views&color=0e75b6&style=flat" alt="shengyenlin" /> </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-shangyenglin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shangyenglin/)](https://www.linkedin.com/in/shangyenglin/) [![Github Badge](https://img.shields.io/badge/-shengyenlin-grey?style=flat&logo=github&logoColor=white&link=https://github.com/shengyenlin/)](https://www.github.com/shengyenlin/) 
+[![Linkedin Badge](https://img.shields.io/badge/-shangyenglin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shangyenglin/)](https://www.linkedin.com/in/shangyenglin/) 
+[![Github Badge](https://img.shields.io/badge/-shengyenlin-grey?style=flat&logo=github&logoColor=white&link=https://github.com/shengyenlin/)](https://www.github.com/shengyenlin/) 
+[![Gmail Badge](https://img.shields.io/badge/-shengyenlin0501@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shengyenlin0501@gmail.com)](mailto:shengyenlin0501@gmail.com)
 
-- 📝 I regularly write articles on [https://medium.com/martins-blog](https://medium.com/martins-blog)
-
-- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-shengyenlin0501@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shengyenlin0501@gmail.com)](mailto:shengyenlin0501@gmail.com)
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/shangyenglin/](https://www.linkedin.com/in/shangyenglin/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shangyenglin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shangyenglin" height="30" width="40" /></a>
-<a href="https://medium.com/@shengyenlin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shengyenlin" height="30" width="40" /></a>
-</p>
+[![Kaggle Badge](https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/martinshengyenlin)
+[![Medium Badge](https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/https://medium.com/martins-blog)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
 
-### Languages  
+### Languages
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="75" /></a>  
@@ -73,3 +64,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shengyenlin&show_icons=true&locale=en" alt="shengyenlin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shengyenlin&" alt="shengyenlin" /></p>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
