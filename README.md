@@ -70,4 +70,9 @@
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [【書】小島經濟學](https://medium.com/martins-blog/%E6%9B%B8-%E5%B0%8F%E5%B3%B6%E7%B6%93%E6%BF%9F%E5%AD%B8-64b269e077c5?source=rss-21598c897135------2)
+- [2022 — une année charnière de ma vie](https://medium.com/martins-blog/2022-une-ann%C3%A9e-charni%C3%A8re-de-ma-vie-2251df83afff?source=rss-21598c897135------2)
+- [你所不知道的法國之二](https://medium.com/martins-blog/%E4%BD%A0%E6%89%80%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E6%B3%95%E5%9C%8B%E4%B9%8B%E4%BA%8C-ed93376975b4?source=rss-21598c897135------2)
+- [二十三歲](https://medium.com/martins-blog/%E4%BA%8C%E5%8D%81%E4%B8%89%E6%AD%B2-c4088e3ada54?source=rss-21598c897135------2)
+- [你所不知道的法國之一](https://medium.com/martins-blog/les-choses-int%C3%A9ressantes-un-96c3a7cec690?source=rss-21598c897135------2)
 <!-- BLOG-POST-LIST:END -->
