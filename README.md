@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/martins-blog](https://medium.com/martins-blog)
 
-- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-shengyenlin0501@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shengyenlin0501@gmail.com)](mailto:shengyenlin0501@gmail.com) <p align='left'>hahaha</p>
+- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-shengyenlin0501@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shengyenlin0501@gmail.com)](mailto:shengyenlin0501@gmail.com)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shangyenglin/](https://www.linkedin.com/in/shangyenglin/)
 
@@ -29,3 +29,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shengyenlin&show_icons=true&locale=en" alt="shengyenlin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shengyenlin&" alt="shengyenlin" /></p>
+
+## Hey 👋, 
+[![Linkedin Badge](https://img.shields.io/badge/-shangyenglin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shangyenglin/)](https://www.linkedin.com/in/shangyenglin/) [![Github Badge](https://img.shields.io/badge/-shengyenlin-grey?style=flat&logo=github&logoColor=white&link=https://github.com/shengyenlin/)](https://www.github.com/shengyenlin/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://www.linkedin.com/in/shangyenglin//)](https://www.linkedin.com/in/shangyenglin//) <p align='left'> You can view my resume <a href='https://www.linkedin.com/in/shangyenglin/ ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=shengyenlin alt=shengyenlin /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=shengyenlin&show_icons=true&include_all_commits=true)](https://github.com/shengyenlin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shengyenlin&layout=compact)](https://github.com/shengyenlin/github-readme-stats)
