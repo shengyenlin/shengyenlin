@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/martins-blog](https://medium.com/martins-blog)
 
-- 📫 How to reach me **shengyenlin0501@gmail.com**
+- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-shengyenlin0501@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shengyenlin0501@gmail.com)](mailto:shengyenlin0501@gmail.com) <p align='left'>hahaha</p>
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shangyenglin/](https://www.linkedin.com/in/shangyenglin/)
 
@@ -29,5 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shengyenlin&show_icons=true&locale=en" alt="shengyenlin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shengyenlin&" alt="shengyenlin" /></p>
-
-[![Gmail Badge](https://img.shields.io/badge/-shengyenlin0501@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shengyenlin0501@gmail.com)](mailto:shengyenlin0501@gmail.com) <p align='left'>hahaha</p>
