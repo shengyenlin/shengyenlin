@@ -10,7 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-shengyenlin0501@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shengyenlin0501@gmail.com)](mailto:shengyenlin0501@gmail.com)
 
 [![Kaggle Badge](https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/martinshengyenlin)
-[![Medium Badge](https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/https://medium.com/martins-blog)
+[![Medium Badge](https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/martins-blog)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
