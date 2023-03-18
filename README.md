@@ -40,7 +40,6 @@ medicine and EECS (II) (IMP 5007) [:octocat:](https://github.com/shengyenlin/MED
 ---
 
 ## My skill sets  
-<table><tr><td valign="top" width="50%">
 
 ### Languages
 <code><img height="40" src="https://profilinator.rishav.dev/skills-assets/c-original.svg"></code>
@@ -89,4 +88,3 @@ medicine and EECS (II) (IMP 5007) [:octocat:](https://github.com/shengyenlin/MED
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shengyenlin&" alt="shengyenlin"/>
 
-<br/>  
