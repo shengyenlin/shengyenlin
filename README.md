@@ -1,7 +1,32 @@
 <h1 align="left">Coucou👋, I'm Sheng-Yen</h1>
-<h3 align="left">Data scientist, machine learning researcher / engineer interested in computer vision, natural language processing, recommander system, multimodal learning.</h3>
-<h3 align="left">Clarinetiest, Stoist, Language enthusiast</h3>
 
+## :book: About me
+
+- 🖥 I'm studying at the artificial intelligence graduate program at department of computer science and information engineering, National Taiwan University (NTU)
+- 👨🏻‍💻  I'm interested in the application of **computer vision (CV), natural language processing (NLP)** in the real world, especially in the context of **medical fields**.
+
+- I'm currently doing research in the following labs
+    - NTU Web mining and information retrieval lab, supervisor: [Pu-Cheng, Jen](https://www.csie.ntu.edu.tw/~pjcheng/)
+        - Developing models to capture hidden trends in the decision-making process of users in a recommendation system using product descriptions, product images and users’ click records
+        - Conduct research on multimodal transformer, CLIP, vision-language learning
+    - [Forschungszentrum Jülich](https://www.fz-juelich.de/de)
+        - Conduct research on super-resolution of 3D medical angiograms through transfer learning from other 3D MRI scans images
+        - Exploring deep learning models and techniques such as generative adversarial
+networks (GANs), diffusion probabilistic models (DPMs), and perceptual loss
+
+- I'm currently taking the following courses this semester (check out my repos for previous courses): 
+    - Artificial intelligence, CSIE 5400, taught in English
+    - Computer vision practice with deep learning, CSIE 5428, focusing on 2D CV
+    - Natural language processing, CSIE 5042, focusing on fundamental algorithms and annotating linguistic structure
+    - Special topics in innovative integration of
+medicine and EECS (II), IMP 5007
+- I love blogging, clarinet, bouldering, couchsurfing (both hosting and requesting)
+
+- I'm a clarinetist, stoist, and language enthusiast
+
+Check out my clarinet performance here :).
+
+## Conatct me
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shengyenlin&label=Profile%20views&color=0e75b6&style=flat" alt="shengyenlin" /> </p>
 
@@ -12,7 +37,9 @@
 [![Kaggle Badge](https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/martinshengyenlin)
 [![Medium Badge](https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/martins-blog)
 
-## My Skill Set  
+---
+
+## My skill sets  
 <table><tr><td valign="top" width="50%">
 
 ### Languages
@@ -58,6 +85,15 @@
 
 <br/>  
 
+## Blogs posts
+<!-- BLOG-POST-LIST:START -->
+- [【書】小島經濟學](https://medium.com/martins-blog/%E6%9B%B8-%E5%B0%8F%E5%B3%B6%E7%B6%93%E6%BF%9F%E5%AD%B8-64b269e077c5?source=rss-21598c897135------2)
+- [2022 — une année charnière de ma vie](https://medium.com/martins-blog/2022-une-ann%C3%A9e-charni%C3%A8re-de-ma-vie-2251df83afff?source=rss-21598c897135------2)
+- [你所不知道的法國之二](https://medium.com/martins-blog/%E4%BD%A0%E6%89%80%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E6%B3%95%E5%9C%8B%E4%B9%8B%E4%BA%8C-ed93376975b4?source=rss-21598c897135------2)
+- [二十三歲](https://medium.com/martins-blog/%E4%BA%8C%E5%8D%81%E4%B8%89%E6%AD%B2-c4088e3ada54?source=rss-21598c897135------2)
+- [你所不知道的法國之一](https://medium.com/martins-blog/les-choses-int%C3%A9ressantes-un-96c3a7cec690?source=rss-21598c897135------2)
+<!-- BLOG-POST-LIST:END -->
+
 ## Github Stats
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shengyenlin&show_icons=true&locale=en&layout=compact" alt="shengyenlin" />
 
@@ -67,12 +103,3 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shengyenlin&" alt="shengyenlin"/>
 
 <br/>  
-
-## Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [【書】小島經濟學](https://medium.com/martins-blog/%E6%9B%B8-%E5%B0%8F%E5%B3%B6%E7%B6%93%E6%BF%9F%E5%AD%B8-64b269e077c5?source=rss-21598c897135------2)
-- [2022 — une année charnière de ma vie](https://medium.com/martins-blog/2022-une-ann%C3%A9e-charni%C3%A8re-de-ma-vie-2251df83afff?source=rss-21598c897135------2)
-- [你所不知道的法國之二](https://medium.com/martins-blog/%E4%BD%A0%E6%89%80%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E6%B3%95%E5%9C%8B%E4%B9%8B%E4%BA%8C-ed93376975b4?source=rss-21598c897135------2)
-- [二十三歲](https://medium.com/martins-blog/%E4%BA%8C%E5%8D%81%E4%B8%89%E6%AD%B2-c4088e3ada54?source=rss-21598c897135------2)
-- [你所不知道的法國之一](https://medium.com/martins-blog/les-choses-int%C3%A9ressantes-un-96c3a7cec690?source=rss-21598c897135------2)
-<!-- BLOG-POST-LIST:END -->
