@@ -26,16 +26,14 @@ medicine and EECS (II) (IMP 5007) [:octocat:](https://github.com/shengyenlin/MED
 
 - ⚡ Passionate about classical music, stoicism, language, and currently transitioning to a vegetarian lifestyle. Check out my clarinet performance on [Youtube](https://www.youtube.com/playlist?list=PLhyJ8UTuqvF6Imd5iRL9TFxVs2-0tzpxE).
 
-## Conatct me
+## How to reach me
 
 [![Linkedin Badge](https://img.shields.io/badge/-shangyenglin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shangyenglin/)](https://www.linkedin.com/in/shangyenglin/) 
 [![Github Badge](https://img.shields.io/badge/-shengyenlin-grey?style=flat&logo=github&logoColor=white&link=https://github.com/shengyenlin/)](https://www.github.com/shengyenlin/) 
-[![Gmail Badge](https://img.shields.io/badge/-shengyenlin0501@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shengyenlin0501@gmail.com)](mailto:shengyenlin0501@gmail.com)
-
-[![Kaggle Badge](https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/martinshengyenlin)
+[![Gmail Badge](https://img.shields.io/badge/-shengyenlin0501@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shengyenlin0501@gmail.com)](mailto:shengyenlin0501@gmail.com) [![Kaggle Badge](https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/martinshengyenlin)
 [![Medium Badge](https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/martins-blog)
 
-## My skill sets  
+## Skill sets  
 
 ### Languages
 <code><img height="40" src="https://profilinator.rishav.dev/skills-assets/c-original.svg"></code>
