@@ -28,16 +28,12 @@ medicine and EECS (II) (IMP 5007) [:octocat:](https://github.com/shengyenlin/MED
 
 ## Conatct me
 
-
-
 [![Linkedin Badge](https://img.shields.io/badge/-shangyenglin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shangyenglin/)](https://www.linkedin.com/in/shangyenglin/) 
 [![Github Badge](https://img.shields.io/badge/-shengyenlin-grey?style=flat&logo=github&logoColor=white&link=https://github.com/shengyenlin/)](https://www.github.com/shengyenlin/) 
 [![Gmail Badge](https://img.shields.io/badge/-shengyenlin0501@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shengyenlin0501@gmail.com)](mailto:shengyenlin0501@gmail.com)
 
 [![Kaggle Badge](https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/martinshengyenlin)
 [![Medium Badge](https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/martins-blog)
-
----
 
 ## My skill sets  
 
@@ -82,7 +78,6 @@ medicine and EECS (II) (IMP 5007) [:octocat:](https://github.com/shengyenlin/MED
 
 ## Github Stats
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shengyenlin&show_icons=true&locale=en&layout=compact" alt="shengyenlin" />
-
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=shengyenlin&show_icons=true&locale=en" alt="shengyenlin"/>
 
