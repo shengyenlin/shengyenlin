@@ -7,12 +7,12 @@
 
 - 🧑🏼‍🔬 Doing research in the following labs
     - NTU Web mining and information retrieval lab, supervisor: [Pu-Cheng, Jen](https://www.csie.ntu.edu.tw/~pjcheng/)
-        - Developing models to capture hidden trends in the decision-making process of users in a recommendation system using product descriptions, product images and users’ click records
-        - Conduct research on multimodal transformer, CLIP, vision-language learning
+        - Try to capture hidden trends in the decision-making process of users in a recommendation system 
+        - Research direction: multimodal transformer, CLIP, vision-language learning
     - [Forschungszentrum Jülich](https://www.fz-juelich.de/de)
-        - Conduct research on super-resolution of 3D medical angiograms through transfer learning from other 3D MRI scans images
-        - Exploring deep learning models and techniques such as generative adversarial
-networks (GANs), diffusion probabilistic models (DPMs), and perceptual loss
+        - Conduct research on super-resolution of 3D medical angiograms through transfer learning
+        - Research direction: generative adversarial
+networks (GANs), diffusion probabilistic models (DPMs),  perceptual loss
 
 - 📚 Taking the following courses this semester:
     - Artificial intelligence, CSIE 5400, taught in English
@@ -20,7 +20,7 @@ networks (GANs), diffusion probabilistic models (DPMs), and perceptual loss
     - Natural language processing, CSIE 5042, focusing on fundamental algorithms and annotating linguistic structure
     - Special topics in innovative integration of
 medicine and EECS (II), IMP 5007
-- 💫 Love blogging, playing clarinet, bouldering, couchsurfing (both hosting and requesting)
+- 💫 Love blogging, playing clarinet, bouldering, couchsurfing 
 
 - ⚡ Clarinetist, stoist, language enthusiast, and trying to be vegetarian now
 
