@@ -1,13 +1,15 @@
-<h1 align="left">Coucou👋, I'm Sheng-Yen</h1>
+## Coucou👋, I'm Sheng-Yen
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shengyenlin&label=Profile%20views&color=0e75b6&style=flat" alt="shengyenlin" /> </p>
 
 ## :book: About me
 
-- 🖥 Studying in the artificial intelligence graduate program (dept. CSIE), NTU
-- 🧑🏼‍💻 Interested in **CV** and **NLP** in the context of **medical fields**
+- 🖥 Currently enrolled in the Artificial Intelligence graduate program (Department of Computer Science and Information Engineering) at NTU.
+- 🧑🏼‍💻 Interested in the application of **computer vision** and **natural language processing** in the **medical field**.
 
-- 🧑🏼‍🔬 Doing research in the following labs
+- 🧑🏼‍🔬 Conducting research in the following labs
     - NTU Web mining and information retrieval lab, supervisor: [Pu-Cheng, Jen](https://www.csie.ntu.edu.tw/~pjcheng/)
-        - Try to capture hidden trends in the decision-making process of users in a recommendation system 
+        - Researching the capture of hidden trends in the decision-making process of users in recommendation systems.
         - Research direction: multimodal transformer, CLIP, vision-language learning
     - [Forschungszentrum Jülich](https://www.fz-juelich.de/de)
         - Conduct research on super-resolution of 3D medical angiograms through transfer learning
@@ -22,13 +24,11 @@ networks (GANs), diffusion probabilistic models (DPMs),  perceptual loss
 medicine and EECS (II) (IMP 5007) [:octocat:](https://github.com/shengyenlin/MEDEECS-II-2023-Spring)
 - 💫 Love blogging, playing clarinet, bouldering, couchsurfing 
 
-- ⚡ Clarinetist, stoist, language enthusiast, and trying to be vegetarian now
-
-Check out my clarinet performance here :).
+- ⚡ Passionate about classical music, stoicism, language, and currently transitioning to a vegetarian lifestyle. Check out my clarinet performance on [Youtube](https://www.youtube.com/playlist?list=PLhyJ8UTuqvF6Imd5iRL9TFxVs2-0tzpxE).
 
 ## Conatct me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shengyenlin&label=Profile%20views&color=0e75b6&style=flat" alt="shengyenlin" /> </p>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-shangyenglin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shangyenglin/)](https://www.linkedin.com/in/shangyenglin/) 
 [![Github Badge](https://img.shields.io/badge/-shengyenlin-grey?style=flat&logo=github&logoColor=white&link=https://github.com/shengyenlin/)](https://www.github.com/shengyenlin/) 
@@ -43,6 +43,9 @@ Check out my clarinet performance here :).
 <table><tr><td valign="top" width="50%">
 
 ### Languages
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/c-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="75" /></a>  
