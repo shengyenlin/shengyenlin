@@ -2,10 +2,10 @@
 
 ## :book: About me
 
-- 🖥 I'm studying at the artificial intelligence graduate program at department of computer science and information engineering, National Taiwan University (NTU)
-- 👨🏻‍💻  I'm interested in the application of **computer vision (CV), natural language processing (NLP)** in the real world, especially in the context of **medical fields**.
+- 🖥 Studying in the artificial intelligence graduate program (dept. CSIE), NTU
+- 🧑🏼‍💻 Interested in **CV** and **NLP** in the context of **medical fields**
 
-- I'm currently doing research in the following labs
+- 🧑🏼‍🔬 Doing research in the following labs
     - NTU Web mining and information retrieval lab, supervisor: [Pu-Cheng, Jen](https://www.csie.ntu.edu.tw/~pjcheng/)
         - Developing models to capture hidden trends in the decision-making process of users in a recommendation system using product descriptions, product images and users’ click records
         - Conduct research on multimodal transformer, CLIP, vision-language learning
@@ -14,15 +14,15 @@
         - Exploring deep learning models and techniques such as generative adversarial
 networks (GANs), diffusion probabilistic models (DPMs), and perceptual loss
 
-- I'm currently taking the following courses this semester (check out my repos for previous courses): 
+- 📚 Taking the following courses this semester:
     - Artificial intelligence, CSIE 5400, taught in English
     - Computer vision practice with deep learning, CSIE 5428, focusing on 2D CV
     - Natural language processing, CSIE 5042, focusing on fundamental algorithms and annotating linguistic structure
     - Special topics in innovative integration of
 medicine and EECS (II), IMP 5007
-- I love blogging, clarinet, bouldering, couchsurfing (both hosting and requesting)
+- 💫 Love blogging, playing clarinet, bouldering, couchsurfing (both hosting and requesting)
 
-- I'm a clarinetist, stoist, and language enthusiast
+- ⚡ Clarinetist, stoist, language enthusiast, and trying to be vegetarian now
 
 Check out my clarinet performance here :).
 
