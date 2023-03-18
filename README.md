@@ -15,9 +15,9 @@
 networks (GANs), diffusion probabilistic models (DPMs),  perceptual loss
 
 - 📚 Taking the following courses this semester:
-    - Artificial intelligence, CSIE 5400, taught in English
-    - Computer vision practice with deep learning, CSIE 5428, focusing on 2D CV
-    - Natural language processing, CSIE 5042, focusing on fundamental algorithms and annotating linguistic structure
+    - Artificial intelligence (CSIE 5400) [:octocat:](https://github.com/shengyenlin/Artificial-Intelligence-2023-Spring)
+    - Computer vision practice with deep learning (CSIE 5428) [:octocat:](https://github.com/shengyenlin/Artificial-Intelligence-2023-Spring)
+    - Natural language processing (CSIE 5042), focusing on fundamental algorithms and annotating linguistic structure
     - Special topics in innovative integration of
 medicine and EECS (II), IMP 5007
 - 💫 Love blogging, playing clarinet, bouldering, couchsurfing 
