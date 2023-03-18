@@ -44,49 +44,33 @@ medicine and EECS (II) (IMP 5007) [:octocat:](https://github.com/shengyenlin/MED
 
 ### Languages
 <code><img height="40" src="https://profilinator.rishav.dev/skills-assets/c-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="75" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="75" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="75" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="75" /></a>  
-</div>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg"></code>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/python-original.svg"></code>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/r.svg"></code>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"></code>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg"></code>
 
-</td><td valign="top" width="25%">
+### Machine learning
 
-### ML / DL  
-<div align="center">  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://pandas.pydata.org/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
-<a href="https://scikit-learn.org/" target="_blank"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
- </a> <a href="https://seaborn.pydata.org/" target="_blank"> <img style="margin: 10px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a>
-</div>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg"></code>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/keras.png"></code>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg"></code>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
+<code><img height="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"></code>
 
-</td><td valign="top" width="25%">
+### Softwares
 
-### Softwares  
-<div align="center">  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-
-</div>
-
-</td></tr></table>  
-
-<br/>  
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg"></code>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"></code>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg"></code>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg"></code>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg"></code>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg"></code>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"></code>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/powershell.png"></code>
+<code><img height="40" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg"></code>
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
