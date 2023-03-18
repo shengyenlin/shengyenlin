@@ -1,6 +1,6 @@
-## Coucou👋, I'm Sheng-Yen
+<h1 align="left">Coucou👋, I'm Sheng-Yen</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shengyenlin&label=Profile%20views&color=0e75b6&style=flat" alt="shengyenlin" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=shengyenlin&label=Profile%20views&color=0e75b6&style=flat" alt="shengyenlin" /> </p>
 
 ## :book: About me
 
