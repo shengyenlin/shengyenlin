@@ -16,10 +16,10 @@ networks (GANs), diffusion probabilistic models (DPMs),  perceptual loss
 
 - 📚 Taking the following courses this semester:
     - Artificial intelligence (CSIE 5400) [:octocat:](https://github.com/shengyenlin/Artificial-Intelligence-2023-Spring)
-    - Computer vision practice with deep learning (CSIE 5428) [:octocat:](https://github.com/shengyenlin/Artificial-Intelligence-2023-Spring)
-    - Natural language processing (CSIE 5042), focusing on fundamental algorithms and annotating linguistic structure
+    - Computer vision practice with deep learning (CSIE 5428) [:octocat:](https://github.com/shengyenlin/Computer-vision-practice-with-deep-learning-2023-Spring)
+    - Natural language processing (CSIE 5042) [:octocat:](https://github.com/shengyenlin/Natural-Language-Processing-2023-Spring)
     - Special topics in innovative integration of
-medicine and EECS (II), IMP 5007
+medicine and EECS (II) (IMP 5007) [:octocat:](https://github.com/shengyenlin/MEDEECS-II-2023-Spring)
 - 💫 Love blogging, playing clarinet, bouldering, couchsurfing 
 
 - ⚡ Clarinetist, stoist, language enthusiast, and trying to be vegetarian now
