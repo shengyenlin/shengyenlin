@@ -21,6 +21,7 @@ networks (GANs), diffusion probabilistic models (DPMs),  perceptual loss
 - ⚡ Passionate about classical music, stoicism, language, and currently transitioning to a vegetarian lifestyle. Check out my clarinet performance on [Youtube](https://www.youtube.com/playlist?list=PLhyJ8UTuqvF6Imd5iRL9TFxVs2-0tzpxE).
 
 <left>
+
 ## Repo catalogue
 |       CV          |  [DLCV](https://github.com/shengyenlin/Deep-learning-computer-vision-2022-Fall), [CVPDL](https://github.com/shengyenlin/Computer-vision-practice-with-deep-learning-2023-Spring) |  
 |---|---|
