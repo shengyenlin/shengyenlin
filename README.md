@@ -20,13 +20,14 @@ networks (GANs), diffusion probabilistic models (DPMs),  perceptual loss
 
 - ⚡ Passionate about classical music, stoicism, language, and currently transitioning to a vegetarian lifestyle. Check out my clarinet performance on [Youtube](https://www.youtube.com/playlist?list=PLhyJ8UTuqvF6Imd5iRL9TFxVs2-0tzpxE).
 
+<left>
 ## Repo catalogue
 |       CV          |  [DLCV](https://github.com/shengyenlin/Deep-learning-computer-vision-2022-Fall), [CVPDL](https://github.com/shengyenlin/Computer-vision-practice-with-deep-learning-2023-Spring) |  
 |---|---|
 |       NLP          | [ADL](https://github.com/shengyenlin/Advanced-deep-learning-natural-language-processing-2022-Fall), [ADL-Final](https://github.com/shengyenlin/Advanced-deep-learning-final-project-2022-Fall), [DLA](https://github.com/shengyenlin/Deep-learning-application-NLP-2021-Fall), [NLP](https://github.com/shengyenlin/Natural-Language-Processing-2023-Spring)  |  
 |       MED          |  [MEDEECS(I)](https://github.com/shengyenlin/MEDEECS-I-2022-Fall) | 
 |       MATH         |  [HTML](https://github.com/shengyenlin/Machine-Learning-HTML-2021-Fall), [EEML](https://github.com/shengyenlin/Machine-Learning-EEML-2021-Fall), [Computation in data science](https://github.com/shengyenlin/Computation-In-Data-Science-2021-Fall) | 
-
+</left>
 
 - 📚 Taking the following courses this semester:
     - Artificial intelligence (CSIE 5400) [:octocat:](https://github.com/shengyenlin/Artificial-Intelligence-2023-Spring)
