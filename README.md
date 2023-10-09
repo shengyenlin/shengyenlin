@@ -4,17 +4,13 @@
 
 ## :book: About me
 
-- 🖥 Currently enrolled in the Artificial Intelligence graduate program (Department of Computer Science and Information Engineering) at NTU.
-- 🧑🏼‍💻 Interested in the application of **computer vision** (CV) and **natural language processing** (NLP) in the **medical field**.
+- 🖥 Currently enrolled in the M2 Data and Artificial Intelligence at [Insitut Polytechnique de Paris](https://www.ip-paris.fr/), previously studied in the aritifical intelligence graduate program at National Taiwan University
+- 🧑🏼‍💻 Interested in the application of **generative computer vision** models in various fields.
 
-- 🧑🏼‍🔬 Conducting research in the following labs
-    - NTU Web mining and information retrieval lab, supervisor: [Pu-Cheng, Jen](https://www.csie.ntu.edu.tw/~pjcheng/)
-        - Researching the capture of hidden trends in the decision-making process of users in recommendation systems.
-        - Research direction: multimodal transformer, CLIP, vision-language learning
-    - [Forschungszentrum Jülich](https://www.fz-juelich.de/de)
-        - Conduct research on super-resolution of 3D medical angiograms through transfer learning
-        - Research direction: generative adversarial
-networks (GANs), diffusion probabilistic models (DPMs),  perceptual loss
+- 🧑🏼‍🔬 Conducted research in the following labs
+    - [Forschungszentrum Jülich](https://www.fz-juelich.de/de): Images denoising with generative models
+    - NTU Web mining and information retrieval lab: Capturing the hidden trends in the decision-making process of users in recommendation systems via multimodal transformer, CLIP and vision-language learning
+
 
 - 💫 Love blogging, playing clarinet, bouldering, couchsurfing 
 
@@ -30,13 +26,6 @@ networks (GANs), diffusion probabilistic models (DPMs),  perceptual loss
 |       MED          |  [MEDEECS(I)](https://github.com/shengyenlin/MEDEECS-I-2022-Fall) | 
 |       MATH         |  [HTML](https://github.com/shengyenlin/Machine-Learning-HTML-2021-Fall), [EEML](https://github.com/shengyenlin/Machine-Learning-EEML-2021-Fall), [Computation in data science](https://github.com/shengyenlin/Computation-In-Data-Science-2021-Fall) | 
 </left>
-
-- 📚 Taking the following courses this semester:
-    - Artificial intelligence (CSIE 5400) [:octocat:](https://github.com/shengyenlin/Artificial-Intelligence-2023-Spring)
-    - Computer vision practice with deep learning (CSIE 5428) [:octocat:](https://github.com/shengyenlin/Computer-vision-practice-with-deep-learning-2023-Spring)
-    - Natural language processing (CSIE 5042) [:octocat:](https://github.com/shengyenlin/Natural-Language-Processing-2023-Spring)
-    - Special topics in innovative integration of
-medicine and EECS (II) (IMP 5007) [:octocat:](https://github.com/shengyenlin/MEDEECS-II-2023-Spring)
 
 ## How to reach me
 
