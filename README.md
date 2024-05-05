@@ -68,11 +68,11 @@
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [二十五歲](https://medium.com/martins-blog/25%E6%AD%B2-c162ed52adc3?source=rss-21598c897135------2)
 - [2023: Half a year as an expat in Europe](https://medium.com/martins-blog/2023-half-a-year-as-an-expat-in-europe-c843a7cb886c?source=rss-21598c897135------2)
 - [2023: 歐洲半年expat的旅程](https://medium.com/martins-blog/2023-%E6%AD%90%E6%B4%B2%E5%8D%8A%E5%B9%B4expat%E7%9A%84%E6%97%85%E7%A8%8B-fbd69c74b657?source=rss-21598c897135------2)
 - [The impact of yoga practice on my life](https://medium.com/martins-blog/the-impact-of-yoga-practice-on-my-life-6569459b0003?source=rss-21598c897135------2)
 - [在德國實習兩個月的日子](https://medium.com/martins-blog/%E5%9C%A8%E5%BE%B7%E5%9C%8B%E5%AF%A6%E7%BF%92%E5%85%A9%E5%80%8B%E6%9C%88%E7%9A%84%E6%97%A5%E5%AD%90-84521a5e6635?source=rss-21598c897135------2)
-- [二十四歲](https://medium.com/martins-blog/%E4%BA%8C%E5%8D%81%E5%9B%9B%E6%AD%B2-7492f5d636d3?source=rss-21598c897135------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Stats
