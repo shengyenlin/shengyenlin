@@ -68,11 +68,11 @@
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How did I prepare for the DALF C1 French exam ?](https://medium.com/martins-blog/how-did-i-prepare-for-the-dalf-c1-french-exam-09f8bdd4ea2c?source=rss-21598c897135------2)
 - [Comment j’ai préparé l’examen DALF C1?](https://medium.com/martins-blog/comment-jai-pr%C3%A9par%C3%A9-l-examen-dalf-c1-8a1bd2dbda86?source=rss-21598c897135------2)
 - [二十五歲](https://medium.com/martins-blog/25%E6%AD%B2-c162ed52adc3?source=rss-21598c897135------2)
 - [2023: Half a year as an expat in Europe](https://medium.com/martins-blog/2023-half-a-year-as-an-expat-in-europe-c843a7cb886c?source=rss-21598c897135------2)
 - [2023: 歐洲半年expat的旅程](https://medium.com/martins-blog/2023-%E6%AD%90%E6%B4%B2%E5%8D%8A%E5%B9%B4expat%E7%9A%84%E6%97%85%E7%A8%8B-fbd69c74b657?source=rss-21598c897135------2)
-- [The impact of yoga practice on my life](https://medium.com/martins-blog/the-impact-of-yoga-practice-on-my-life-6569459b0003?source=rss-21598c897135------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Stats
