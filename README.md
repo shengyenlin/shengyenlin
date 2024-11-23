@@ -68,11 +68,11 @@
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How did I find my end-of-study internship in Paris ?](https://medium.com/martins-blog/how-did-i-find-my-end-of-study-internship-in-paris-c5a7d2b29050?source=rss-21598c897135------2)
 - [我如何在巴黎找到end-of-study internship?](https://medium.com/martins-blog/%E6%88%91%E5%A6%82%E4%BD%95%E5%9C%A8%E5%B7%B4%E9%BB%8E%E6%89%BE%E5%88%B0end-of-study-internship-de23d5104d08?source=rss-21598c897135------2)
 - [How did I prepare for the DALF C1 French exam ?](https://medium.com/martins-blog/how-did-i-prepare-for-the-dalf-c1-french-exam-09f8bdd4ea2c?source=rss-21598c897135------2)
 - [Comment j’ai préparé l’examen DALF C1?](https://medium.com/martins-blog/comment-jai-pr%C3%A9par%C3%A9-l-examen-dalf-c1-8a1bd2dbda86?source=rss-21598c897135------2)
 - [二十五歲](https://medium.com/martins-blog/25%E6%AD%B2-c162ed52adc3?source=rss-21598c897135------2)
-- [2023: Half a year as an expat in Europe](https://medium.com/martins-blog/2023-half-a-year-as-an-expat-in-europe-c843a7cb886c?source=rss-21598c897135------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Stats
