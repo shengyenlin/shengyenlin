@@ -68,11 +68,11 @@
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [二十六歲](https://medium.com/martins-blog/%E4%BA%8C%E5%8D%81%E5%85%AD%E6%AD%B2-0dbb99dedf94?source=rss-21598c897135------2)
 - [2023年France Excellence留法菁英獎學金分享 — Part II: 福利篇](https://medium.com/martins-blog/2023%E5%B9%B4france-excellence%E7%95%99%E6%B3%95%E8%8F%81%E8%8B%B1%E7%8D%8E%E5%AD%B8%E9%87%91%E5%88%86%E4%BA%AB-part-ii-%E7%A6%8F%E5%88%A9%E7%AF%87-04a7a1f467d7?source=rss-21598c897135------2)
 - [2023年France Excellence留法菁英獎學金分享 — 準備篇](https://medium.com/martins-blog/2023%E5%B9%B4france-excellence%E7%95%99%E6%B3%95%E8%8F%81%E8%8B%B1%E7%8D%8E%E5%AD%B8%E9%87%91%E5%88%86%E4%BA%AB-%E6%BA%96%E5%82%99%E7%AF%87-97044dd0e795?source=rss-21598c897135------2)
 - [A late goodbye to 2024](https://medium.com/martins-blog/a-late-goodbye-to-2024-b50b8cb29403?source=rss-21598c897135------2)
 - [2024歲末年終](https://medium.com/martins-blog/2024%E6%AD%B2%E6%9C%AB%E5%B9%B4%E7%B5%82-6647d24043ee?source=rss-21598c897135------2)
-- [How did I find my end-of-study internship in Paris ?](https://medium.com/martins-blog/how-did-i-find-my-end-of-study-internship-in-paris-c5a7d2b29050?source=rss-21598c897135------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Stats
